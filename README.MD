@@ -6,7 +6,8 @@
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, streamlit, pydeck, plotly  
-**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
+**For Web Framework Requirements:**  ```pip install -r requirements.txt```   
+**Dataset:** [Download the dataset from here](https://www.kaggle.com/new-york-city/nypd-motor-vehicle-collisions "NYPD Motor Vehicle Collisions")
 
 ## Data Visualization
 There are 4 different views in the web application.
